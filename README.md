@@ -1,4 +1,4 @@
-[DEMO LINK] https://savmary.github.io/miami-landing/
+[DEMO LINK] (https://savmary.github.io/miami-landing/)
 
 Landing-business card of the city Miami
 
